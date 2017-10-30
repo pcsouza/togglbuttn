@@ -1,5 +1,5 @@
 ﻿namespace TogglButtn.Config {
-    internal interface IConfig {
+    public interface IConfig {
         string TogglApiKey { get; }
     }
 }
